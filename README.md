@@ -54,4 +54,13 @@
   - implement custom single-objective and single effect algorithm
   - utilize the optimization API
 
-# ressource collection
+# resource collection
+
+- https://fwitte.github.io/intro-to-thermal-engineering
+- https://github.com/ddceruti/csp-exercises
+- https://github.com/PabloMBarral/Technology-of-Heat
+- https://fwitte.github.io/TESPy_teaching_exergy
+- https://github.com/tub-hofmann/tespy-gt
+- https://kdh981.github.io/RET-Gruppe-4
+- https://github.com/MathisChapp/Rechnerpraktikum_WiSe23-24_Gruppe6
+- ...
